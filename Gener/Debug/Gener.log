@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Admin\Source\Repos\Gener\Gener\main.cpp(46): warning C4715: corridors::Generate: значение возвращается не при всех путях выполнения
+C:\Users\Admin\Source\Repos\Gener\Gener\main.cpp(86): warning C4715: funcrooms::Generate: значение возвращается не при всех путях выполнения
+  Gener.vcxproj -> C:\Users\Admin\Source\Repos\Gener\Debug\Gener.exe
